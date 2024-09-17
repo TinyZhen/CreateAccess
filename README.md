@@ -1,3 +1,7 @@
+<picture>
+    <img alt="logo" src="https://github.com/TinyZhen/CreateAccess/blob/main/logo.jpg">
+</picture>
+
 ## Team Member
 - Keta Nitinkumar Patel
 - Mahdi Almosawi
@@ -13,3 +17,7 @@ Finding convenient and engaging learning opportunities is a challenge for users 
 - Lack of opportunity awareness: Many people are unaware of the career paths associated with 3D creation.
 
 CreateAccess is committed to removing these barriers and helping users get started by offering free mini-courses. However, the existing website's user interface is not intuitive enough to quickly engage and guide users, especially first-time visitors. In addition, mobile access and accessibility features have not been fully optimized.
+
+
+You can vist the website at [CreateAccess](https://createaccess.org/)
+
