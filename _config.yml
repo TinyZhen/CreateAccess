@@ -1,5 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
-title: Zhen's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Team's homepage
+description: CreateAccess
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
