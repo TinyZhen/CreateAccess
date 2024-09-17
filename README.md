@@ -1,6 +1,4 @@
-<picture>
-    <img alt="logo" src="https://github.com/TinyZhen/CreateAccess/blob/main/logo.jpg">
-</picture>
+![logo](logo.jpg)
 
 ## Team Member
 - Keta Nitinkumar Patel
