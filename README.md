@@ -31,7 +31,7 @@ You can visit the website at [CreateAccess](https://createaccess.org/)
 
 Prototype:
 1. 
-
+![prototype](prototype.png)
 
 
 Briefing:
