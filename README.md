@@ -35,16 +35,20 @@ Prototype:
 
 
 Briefing:
+
 2.  "Welcome, and thank you for helping us test this prototype. This tool is designed as a learning platform for 3D creation, where users can explore various techniques and tools to create 3D models. Today, you’ll get a hands-on look at the main features we’re working on. We are working on the project for CreateAccess. Since this is a paper prototype, you can interact with it as if it were a real digital interface. You can ‘tap’ or ‘click’ on buttons, ‘scroll’ by pointing to different sections, and I’ll show you the screens as if you were navigating through the website.Please feel free to share your thoughts as you go along. Your feedback is incredibly valuable to us, and there are no wrong actions or answers—anything you find unclear helps us make the design better. Let’s get started!"
 
-Scenario Tasks
+Scenario Tasks:
+
 3. The scenario that we gave to our users was: 
 Imagine you’re eager to start learning 3D creation. Begin by navigating to the course library to explore the available courses. Once there, select a course that interests you, open it to view more details, and proceed to start the first lesson or module. As you go through the course, interact with the content provided, including any tutorials, quizzes, or exercises within the initial module."
 
 Observations:
+
 4. During testing, several usability issues emerged. Users expressed confusion on the main page due to multiple buttons leading to the same course page, making navigation unclear and repetitive. Additionally, when attempting to access a course, users had to click through multiple screens, which felt cumbersome and led to frustration. This excess of steps to reach the course content highlighted a need for streamlining navigation and reducing redundant elements to create a smoother user experience.
 
 Prototype Iteration:
+
 5. Between the first and second rounds of prototyping, several adjustments were made based on user feedback. Initially, users found the main page confusing, as multiple buttons led to the same course library. To address this, we simplified the layout, reducing duplicate buttons and clarifying navigation paths. Additionally, accessing a course required multiple clicks, which users found cumbersome. In the second iteration, we streamlined the access flow, reducing the number of steps needed to reach course content by consolidating screens and minimizing extra navigation layers. These changes aimed to create a more intuitive and user-friendly experience.
 
 
