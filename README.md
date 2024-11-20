@@ -51,5 +51,12 @@ Prototype Iteration:
 
 5. Between the first and second rounds of prototyping, several adjustments were made based on user feedback. Initially, users found the main page confusing, as multiple buttons led to the same course library. To address this, we simplified the layout, reducing duplicate buttons and clarifying navigation paths. Additionally, accessing a course required multiple clicks, which users found cumbersome. In the second iteration, we streamlined the access flow, reducing the number of steps needed to reach course content by consolidating screens and minimizing extra navigation layers. These changes aimed to create a more intuitive and user-friendly experience.
 
+Step 5: Interface Prototype
+
+The interface we designed using Figma is viewable [here](https://www.figma.com/design/4ydKG380Srt5IpW33lY2Nn/Untitled?node-id=0-1&node-type=canvas&t=Qq94ocVSSfN7CgSS-0)
+
+The first page that can be seen is the homepage. Right up top, the hyperlinks take you directly where you want to go on the site. The "course" button takes you to the second page, where the courses are shown, where the start learning button starts you with the beginner course and the download link sets you up with the proper tools. Then, you see a list of available courses in list format, which open the tutorials in a multiple part format that can be accessed through the bar up top which will correspond to which step of the tutorial you are on. The about button takes you to the about page where each major category of information of the site and company is shown, allowing you to learn more about each of them or continue to the contact form with any questions.
+
+
 
 
