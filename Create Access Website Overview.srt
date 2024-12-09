@@ -1,0 +1,435 @@
+1
+00:00:01,447 --> 00:00:04,546
+Hello, welcome to the Create Access website.
+
+2
+00:00:04,547 --> 00:00:09,409
+Create Access is about bridging the opportunity gaps in tech by offering accessible pathways
+
+3
+00:00:09,410 --> 00:00:14,064
+to 3D creation. And this website is
+
+4
+00:00:14,065 --> 00:00:18,759
+built to be able to expand upon the website that Create Access
+
+5
+00:00:18,760 --> 00:00:22,034
+already uses. To be to best succeed,
+
+6
+00:00:22,070 --> 00:00:24,444
+successfully help their students,
+
+7
+00:00:24,445 --> 00:00:27,940
+their partners, and anybody coming across their website.
+
+8
+00:00:28,156 --> 00:00:30,402
+To be able to best use their tutorials,
+
+9
+00:00:31,019 --> 00:00:33,105
+contact them, donate to them,
+
+10
+00:00:33,301 --> 00:00:36,969
+support the company in any way.
+
+11
+00:00:36,970 --> 00:00:41,651
+To be able to expand the 3D learning space.
+
+12
+00:00:41,652 --> 00:00:43,971
+firstly, we go over the home screen that we created,
+
+13
+00:00:43,972 --> 00:00:46,565
+or the home page that we created.
+
+14
+00:00:46,566 --> 00:00:50,132
+we started off by making sure that it got straight to the point,
+
+15
+00:00:50,528 --> 00:00:52,955
+being able to explain what this website is for,
+
+16
+00:00:53,451 --> 00:00:56,917
+and then being able to show the resources for that.
+
+17
+00:00:58,137 --> 00:01:01,300
+off some of the modeling for 3D creation,
+
+18
+00:01:01,301 --> 00:01:03,742
+what are some of the things that they can create. down below,
+
+19
+00:01:04,323 --> 00:01:09,198
+exploring what the journey of Create Access can show
+
+20
+00:01:09,199 --> 00:01:09,969
+you, what you can,
+
+21
+00:01:09,970 --> 00:01:15,415
+build upon, and some of the collaborators and businesses that partner with.
+
+22
+00:01:15,416 --> 00:01:19,966
+create access to be able to enhance these tutorials and the learning for students.
+
+23
+00:01:20,657 --> 00:01:24,552
+On here, our plan would be to expand upon it to a full page.
+
+24
+00:01:25,003 --> 00:01:29,738
+As more partners come in, as descriptions or their roles change,
+
+25
+00:01:29,768 --> 00:01:34,318
+that would be the page that people- to see those changes and
+
+26
+00:01:34,319 --> 00:01:35,870
+be able to be caught up.
+
+27
+00:01:35,871 --> 00:01:38,272
+firstly, on the Nav Bar, we kept it simple,
+
+28
+00:01:38,292 --> 00:01:42,947
+with the main things that you needed as any type of user on
+
+29
+00:01:42,948 --> 00:01:45,659
+the website to be best- succeed on it.
+
+30
+00:01:45,660 --> 00:01:47,040
+which would be the courses,
+
+31
+00:01:47,041 --> 00:01:49,283
+the About Us text, I have to learn more about the company,
+
+32
+00:01:49,303 --> 00:01:53,745
+a way to contact directly and donate section,
+
+33
+00:01:53,950 --> 00:01:57,870
+and then the download would be directly for the software being used,
+
+34
+00:01:57,914 --> 00:02:01,213
+which would be downloaded directly from Epic Store.
+
+35
+00:02:01,657 --> 00:02:05,519
+Firstly, let's start off with the courses. So for the courses,
+
+36
+00:02:05,520 --> 00:02:09,909
+the one problem that we- so with the main website was just unclear of
+
+37
+00:02:10,239 --> 00:02:10,965
+where to start.
+
+38
+00:02:10,985 --> 00:02:16,871
+so right away, what we wanted to begin with was showing the microcourses
+
+39
+00:02:16,872 --> 00:02:20,339
+hub, showing exactly what the software you're using is,
+
+40
+00:02:20,550 --> 00:02:22,622
+and a way to just begin right away.
+
+41
+00:02:22,992 --> 00:02:25,759
+So when you go off of the courses,
+
+42
+00:02:25,779 --> 00:02:30,023
+you have the option right here to just read on what the software you're
+
+43
+00:02:30,024 --> 00:02:33,046
+using, which is Unreal, and the Unreal Engine Editor,
+
+44
+00:02:33,066 --> 00:02:37,070
+which is a free software that Epic does provide,
+
+45
+00:02:37,090 --> 00:02:39,072
+for people to work on, create games,
+
+46
+00:02:39,092 --> 00:02:41,684
+expand upon a four-night, three-model,
+
+47
+00:02:41,685 --> 00:02:42,444
+etc.
+
+48
+00:02:42,464 --> 00:02:45,607
+and we do add some guides at the bottom that show a lot of
+
+49
+00:02:45,608 --> 00:02:47,940
+the different movements,
+
+50
+00:02:47,941 --> 00:02:51,974
+the controls that you would need to understand what to do in these softwares,
+
+51
+00:02:51,994 --> 00:02:56,719
+which is very helpful and accessible to all people using those tutorials.
+
+52
+00:02:56,739 --> 00:02:59,342
+right away, we wanted to make, sure that we had a section that could
+
+53
+00:02:59,343 --> 00:03:03,451
+go right into the different tutorials that you can go through.
+
+54
+00:03:03,623 --> 00:03:05,780
+So we have, as soon as you hit,
+
+55
+00:03:05,781 --> 00:03:09,338
+start learning, we can pick through the different courses that we have.
+
+56
+00:03:09,391 --> 00:03:12,869
+Right now, for sake of implementation,
+
+57
+00:03:12,870 --> 00:03:14,621
+we added just two.
+
+58
+00:03:14,622 --> 00:03:18,703
+so when you go into here, it brings you through the courses,
+
+59
+00:03:19,430 --> 00:03:23,161
+where you'd be able to begin in order of which one you want to
+
+60
+00:03:23,162 --> 00:03:27,725
+go to, and you'll see the videos directly from the YouTube uploaded
+
+61
+00:03:27,726 --> 00:03:30,475
+videos that are provided from Create Access.
+
+62
+00:03:30,862 --> 00:03:33,171
+And through that, you'd be able to see,
+
+63
+00:03:33,172 --> 00:03:35,438
+all the guides, everything that you need,
+
+64
+00:03:35,572 --> 00:03:40,746
+and even link you directly to the PDF files for
+
+65
+00:03:41,241 --> 00:03:44,950
+the projects themselves so that you can visually see the steps as you're going
+
+66
+00:03:44,951 --> 00:03:47,135
+through the video.
+
+67
+00:03:47,136 --> 00:03:48,122
+As we do that,
+
+68
+00:03:48,142 --> 00:03:52,056
+it creates a way more cleaner and simple way for students to be able
+
+69
+00:03:52,057 --> 00:03:56,551
+to follow along, which helps in the long run of people staying on the
+
+70
+00:03:56,552 --> 00:03:58,953
+website, finishing their tutorials,
+
+71
+00:03:58,954 --> 00:04:02,199
+finishing, learning how to do 3D creation,
+
+72
+00:04:02,834 --> 00:04:06,864
+and in the end, makes creative- access more successful in the long run.
+
+73
+00:04:07,979 --> 00:04:10,648
+After this, we have the about section,
+
+74
+00:04:10,942 --> 00:04:15,740
+where we directly will go through the mission for create
+
+75
+00:04:15,741 --> 00:04:20,277
+access, what brings them, what drives them, the future plans so that it's
+
+76
+00:04:20,432 --> 00:04:22,497
+very clear to people that want to partner,
+
+77
+00:04:22,498 --> 00:04:27,131
+people that want to join, what the- what the movement of the company is,
+
+78
+00:04:27,132 --> 00:04:30,314
+where they're leaning towards, where they're hoping to achieve to,
+
+79
+00:04:30,334 --> 00:04:32,476
+and making that a hundred percent clear, especially,
+
+80
+00:04:32,496 --> 00:04:37,462
+since the whole point is for people to be able to join without restrictions,
+
+81
+00:04:38,121 --> 00:04:41,245
+it's a lot easier if people can see that fully laid out.
+
+82
+00:04:41,976 --> 00:04:46,670
+another way to just link them to connecting directly with Create Access
+
+83
+00:04:46,752 --> 00:04:50,473
+through e-mail, and be able to record that directly off the website,
+
+84
+00:04:51,016 --> 00:04:55,660
+and being able to see the full team of people that are amazingly
+
+85
+00:04:55,661 --> 00:05:00,244
+being able to increase and create an environment in this company
+
+86
+00:05:00,245 --> 00:05:04,809
+that lets- people learn amazing skills that they
+
+87
+00:05:04,810 --> 00:05:06,801
+wouldn't have been able to anywhere else.
+
+88
+00:05:06,821 --> 00:05:09,392
+so whether that's founders, the educators,
+
+89
+00:05:09,415 --> 00:05:10,985
+or some of the interns involved,
+
+90
+00:05:11,005 --> 00:05:14,408
+they'll be able to learn what their names are, who's gonna be actually helping
+
+91
+00:05:14,409 --> 00:05:19,033
+them and see that team. From there we also have just the contact
+
+92
+00:05:19,034 --> 00:05:22,266
+page. Again, this is where they'll be able to put their emails,
+
+93
+00:05:22,267 --> 00:05:25,639
+send a message to them so that they can get back to them and
+
+94
+00:05:25,640 --> 00:05:28,662
+best communicate with the team directly, I created access.
+
+95
+00:05:28,682 --> 00:05:32,706
+there's also a donation page which allows people that want to support and may
+
+96
+00:05:32,707 --> 00:05:36,029
+not be able to physically, you know, join the program,
+
+97
+00:05:36,030 --> 00:05:38,801
+but be able to continuously.
+
+98
+00:05:38,802 --> 00:05:43,849
+Give their support to a company that's trying to give free programming to students.
+
+99
+00:05:44,507 --> 00:05:48,275
+And then finally, the download page will bring you directly to the Epic Store
+
+100
+00:05:48,592 --> 00:05:53,281
+where they'll be able to find and download the support
+
+101
+00:05:53,398 --> 00:05:55,912
+for the Epic.
+
+102
+00:05:55,913 --> 00:05:59,046
+Unreal Engine Epic Engine.
+
+103
+00:06:00,311 --> 00:06:03,199
+that is our implementation for Create Access.
+
+104
+00:06:03,629 --> 00:06:06,768
+Although there's obviously a lot of things that we want to continue to add
+
+105
+00:06:06,769 --> 00:06:11,232
+to it. This is the structure and we feel like it simplifies it in
+
+106
+00:06:11,233 --> 00:06:15,688
+the best way that we can to be able to successfully support the students
+
+107
+00:06:16,109 --> 00:06:18,984
+and being able to quickly get to their courses, but also people that want
+
+108
+00:06:18,985 --> 00:06:22,340
+to learn and see all the in-depth information for it.
+
+109
+00:06:23,422 --> 00:06:24,664
+Thank you. Have a good day.
