@@ -59,4 +59,22 @@ The first page that can be seen is the homepage. Right up top, the hyperlinks ta
 
 
 
+**Project Step 6 - Final Implementation**
+
+Project Documentation: CreateAccess Website
+1. Project Overview
+The CreateAccess Website is an interactive platform designed to provide users with detailed information about 3D creation microcourses. It features dynamic navigation, embedded video content, and a visually appealing design to enhance the user experience.
+
+The project is implemented using HTML, CSS, and JavaScript, and it includes functionality for switching between modules, embedded YouTube videos, and navigation between pages.
+
+A link to your implementation (code)
+
+**Instructions to Run the Website Locally**
+
+Step 1: 
+  
+Step 2 : 
+
+
+
 
