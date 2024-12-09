@@ -79,6 +79,7 @@ The project is implemented using HTML, CSS, and JavaScript, and it includes func
 A link to your implementation (code)
 
 **Instructions to Run the Website Locally**
+
 Step 1: Download the Code
 Visit the link to download the code repository
 
