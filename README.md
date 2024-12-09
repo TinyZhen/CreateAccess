@@ -79,10 +79,21 @@ The project is implemented using HTML, CSS, and JavaScript, and it includes func
 A link to your implementation (code)
 
 **Instructions to Run the Website Locally**
+Step 1: Download the Code
+Visit the link to download the code repository
 
-Step 1: 
+Step 2: Open the Files in a Browser
+Locate the project folder on your computer.
+Inside the folder, find the main HTML file:
+Example: index.html.
+Double-click the index.html file, or right-click it and choose Open with > Your Browser.
+
+Step 3: Navigate the Website
+Once the website is open in your browser:
+Use the navigation bar at the top to explore different sections, such as "Home," "Courses," "About Us," and "Contact."
+Click on buttons or links to interact with the dynamic features, such as course modules or forms.
+
   
-Step 2 : 
 
 
 
