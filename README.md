@@ -76,7 +76,7 @@ The CreateAccess Website is an interactive platform designed to provide users wi
 
 The project is implemented using HTML, CSS, and JavaScript, and it includes functionality for switching between modules, embedded YouTube videos, and navigation between pages.
 
-A link to your implementation (code) - https://github.com/Keta2208/CreateAccess-website
+A link to your implementation [code](https://github.com/Keta2208/CreateAccess-website)
 
 **Instructions to Run the Website Locally**
 
